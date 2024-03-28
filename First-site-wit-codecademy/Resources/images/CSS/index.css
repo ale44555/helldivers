@@ -29,12 +29,7 @@ a{
     text-decoration: none;
 }
 #freedom{
-    border-bottom: red;
-    border-style: double;
-    border-width:5px;
-    border-top: #4D00FF;
-    border-left: #4D00FF;
-    border-right: #4D00FF;
+    text-decoration:underline;
     display: block;
     width: 300px;
     margin: 0 auto;
